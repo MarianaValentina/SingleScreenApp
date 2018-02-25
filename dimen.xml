@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_margin">15dp</dimen>
+    <dimen name="time">5dp</dimen>
+    <dimen name="textSize">20dp</dimen>
+    <dimen name="teSize">15dp</dimen>
+    <dimen name="image_height">180dp</dimen>
+    <dimen name="image_dim">35dp</dimen>
+    <dimen name="padding_and_layout_margin">8dp</dimen>
+</resources>
