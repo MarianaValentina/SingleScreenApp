@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title">Brutaria dinSat</string>
+    <string name="adress">Brasov, Strada Mica nr. 7</string>
+    <string name="hours">Monday - Sunday: 9AM - 5PM</string>
+    <string name="motto">Best backery in town!</string>
+    <string name="description">Do you miss the smell of fresh baked bread? \n We have the best baguettes, croisants and all kind of bread specialities. \n Come and taste them all!</string>
+
+</resources>
